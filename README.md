@@ -4,7 +4,7 @@ We are excited to announce the release of Trigger_Mania v1.0! This action-packed
 
 
 
-##ScreenShots
+## ScreenShots
 ![Screenshot 2023-06-15 230602](https://github.com/Alok-2002/Tigger-Mania-Windows-Release/assets/93814546/93db9b0f-7254-4220-be7d-a6f5b0ea7b7f)
 ![Screenshot 2023-06-15 230521](https://github.com/Alok-2002/Tigger-Mania-Windows-Release/assets/93814546/21be57df-bfd6-4b4b-bac1-ca9b470100e2)
 ![Screenshot 2023-06-15 230536](https://github.com/Alok-2002/Tigger-Mania-Windows-Release/assets/93814546/258af660-9c27-4033-a8c4-ebf3d1290e0b)
