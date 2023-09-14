@@ -1,5 +1,10 @@
 # Release Notes - Trigger_Mania v1.0
 
+![GitHub](https://img.shields.io/github/license/alok-2002/Tigger-Mania-Windows-Release)
+![GitHub stars](https://img.shields.io/github/stars/alok-2002/Tigger-Mania-Windows-Release)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/alok-2002/Tigger-Mania-Windows-Release)
+![GitHub repo size](https://img.shields.io/github/repo-size/alok-2002/Tigger-Mania-Windows-Release)
+
 We are excited to announce the release of Trigger_Mania v1.0! This action-packed game is now available for download on Windows. Get ready to immerse yourself in a thrilling world of shooting, strategy, and problem-solving. Here are the details of this release:
 
 
