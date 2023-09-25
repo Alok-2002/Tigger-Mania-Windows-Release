@@ -67,4 +67,4 @@ Stay tuned for more exciting updates in the future!
 ## License
 Trigger_Mania is released under the [MIT License](LICENSE). Feel free to modify and distribute the game according to the terms of this license.
 
-Thank you for choosing Trigger_Mania! We hope you enjoy the game and have an adrenaline-pumping experience. Stay trigger-happy and have fun!
+Thank you for choosing Trigger Mania! We hope you enjoy the game and have an adrenaline-pumping experience. Stay trigger-happy and have fun!
